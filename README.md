@@ -1,2 +1,3 @@
 # My-Sql
 Library Management 
+Library Management system using My sql have all the information about books in the library, their cost, status and total number of books availbale in the library.
